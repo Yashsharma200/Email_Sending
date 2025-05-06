@@ -22,8 +22,8 @@ public class App
         System.out.println( "Preparing message for sending...." );
         String message = "Hello friend this mail is testing do not worry";
         String subject = "Yash tesing mail API"; 
-        String to = "sp3336705@gmail.com";
-        String from ="yashsharma09140@gmail.com";
+        String to = "xyz-2@gmail.com";
+        String from ="xyz@gmail.com";
         sendMail(message, subject, to, from);
     }
     // this is responsible for send email...
